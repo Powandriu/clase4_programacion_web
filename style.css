@@ -1,0 +1,19 @@
+.centrado{
+    max-width: 40%;
+    margin-left: auto; /*para centrar*/
+    margin-right: auto;
+}
+
+.imagen {
+    height: 300px;
+    width: 500px;
+}
+
+.formulario{
+    margin-top: 6%;
+}
+
+.todo-formulario .boton{
+    position: absolute;
+    right: 0%;
+}
